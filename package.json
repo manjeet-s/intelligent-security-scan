@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/synopsys-sig/intelligent-security-scan#readme",
   "dependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^1.10.0",
     "shelljs": "^0.8.4"
   }
 }
